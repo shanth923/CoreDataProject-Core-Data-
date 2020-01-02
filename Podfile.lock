@@ -1,0 +1,16 @@
+PODS:
+  - TextFieldEffects (1.5.1)
+
+DEPENDENCIES:
+  - TextFieldEffects (= 1.5.1)
+
+SPEC REPOS:
+  trunk:
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  TextFieldEffects: 7d372f58aeaf9acd9626bbf962680aef926b085d
+
+PODFILE CHECKSUM: 1b1eb9b0c52aded5969715f36f384cb30be56b1c
+
+COCOAPODS: 1.8.4
